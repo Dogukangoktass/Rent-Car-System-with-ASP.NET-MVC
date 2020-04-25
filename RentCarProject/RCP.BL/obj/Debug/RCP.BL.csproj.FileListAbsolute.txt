@@ -1,0 +1,17 @@
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\RCP.BL.dll.config
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\RCP.BL.dll
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\RCP.BL.pdb
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\EntityFramework.dll
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\RCP.DL.dll
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\RCP.Model.dll
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\RCP.DL.pdb
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\RCP.DL.dll.config
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\RCP.Model.pdb
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\EntityFramework.xml
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\obj\Debug\RCP.BL.csprojAssemblyReference.cache
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\obj\Debug\RCP.BL.csproj.CoreCompileInputs.cache
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\obj\Debug\RCP.BL.csproj.CopyComplete
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\obj\Debug\RCP.BL.dll
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.BL\obj\Debug\RCP.BL.pdb
