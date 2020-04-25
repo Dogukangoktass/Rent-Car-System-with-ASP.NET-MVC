@@ -1,0 +1,6 @@
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.Model\bin\Debug\RCP.Model.dll
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.Model\bin\Debug\RCP.Model.pdb
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.Model\obj\Debug\RCP.Model.csprojAssemblyReference.cache
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.Model\obj\Debug\RCP.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.Model\obj\Debug\RCP.Model.dll
+C:\Users\Lab03-16\Desktop\RentCarProject\RentCarProject\RCP.Model\obj\Debug\RCP.Model.pdb
